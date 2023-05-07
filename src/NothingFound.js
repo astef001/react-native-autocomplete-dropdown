@@ -18,5 +18,5 @@ const styles = StyleSheet.create({
   container: {
     padding: 10
   },
-  text: { textAlign: 'center'; color: 'white' }
+  text: { textAlign: 'center', color: 'white' }
 })
